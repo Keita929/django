@@ -1,0 +1,27 @@
+# memo
+## django
+aiueo
+### aiueo
+# aiueo
+aaa
+```
+keita@KeitanoMacBook-Air django_tutorial % touch memo
+keita@KeitanoMacBook-Air django_tutorial % touch memo.md
+keita@KeitanoMacBook-Air django_tutorial % rm memo
+keita@KeitanoMacBook-Air django_tutorial % ls
+Dockerfile              memo.md                 test
+```
+```bash 
+# ```bash コードに色つける
+docker-compose.yml      requirements.txt
+keita@KeitanoMacBook-Air django_tutorial % rm test
+keita@KeitanoMacBook-Air django_tutorial % ls
+Dockerfile              memo.md
+docker-compose.yml      requirements.txt
+keita@KeitanoMacBook-Air django_tutorial % 
+```
+aaa
+
+[マークダウンかきかた](https://qiita.com/kamorits/items/6f342da395ad57468ae3)
+
+
