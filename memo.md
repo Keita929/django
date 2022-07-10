@@ -20,13 +20,11 @@ Dockerfile              memo.md
 docker-compose.yml      requirements.txt
 keita@KeitanoMacBook-Air django_tutorial % 
 ```
-aaa
 
 [マークダウンかきかた](https://qiita.com/kamorits/items/6f342da395ad57468ae3)
 
 コマンド　隠しファイル見える
 ls -la
-
 
 rm -fR .git 
 
@@ -38,11 +36,19 @@ aiueo
 
 # Git
 
+初期
 ```sh
 git init
 git add .
 git commit -m "first commit"
 git remote add origin https://github.com/Keita929/django.git
 git branch -M main
+git push -u origin main
+```
+
+継続用
+```sh
+git add .
+git commit -m "first commit"
 git push -u origin main
 ```
